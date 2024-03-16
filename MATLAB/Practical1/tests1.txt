@@ -1,0 +1,26 @@
+﻿Test case 1: height is 1, length is 3, and depth is 5
+Input:
+1
+3
+5
+
+Expected output: 15
+Actual output: 15
+
+Test case 2: height is 1.2, length is 3.5, and depth is 2.6
+Input:
+1.2
+3.5
+2.6
+
+Expected output: 10.92
+Actual output: 10.92
+
+Test case 3: height is 3.3333, length is 6.7777, and depth is 9.21234
+Input:
+3.3333
+6.7777
+9.21234
+
+Expected output: 208.1262
+Actual output: 208.1262

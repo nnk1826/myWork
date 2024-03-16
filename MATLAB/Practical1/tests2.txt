@@ -1,0 +1,14 @@
+﻿Test case 1: 9,000,000 population
+Input: 9000000
+Expected output: 61200000
+Actual output: 61200000.0
+
+Test case 2: 12,324,958 population
+Input: 12324958
+Expected output: 83809714.4
+Actual output: 83809714.4
+
+Test case 3: 1 population
+Input: 1
+Expected output: 6.8
+Actual output: 6.8

@@ -1,0 +1,23 @@
+Test case 1: 1 population, 1 km travel, 2 AUD fuel cost
+Input: 
+1
+1
+2
+Expected output: 3 (AUD)
+Actual output: 3 (AUD)
+
+Test case 1: 34,598 population, 15 km travel, 10 AUD fuel cost
+Input: 
+34598
+15
+10
+Expected output: 864,950 (AUD)
+Actual output: 864950.0 (AUD)
+
+Test case 1: 89,534,124 population, 10 km travel, 0.5 AUD fuel cost
+Input: 
+89534124
+10
+0.5
+Expected output: 940,108,302 (AUD)
+Actual output: 940108302.0 (AUD)
