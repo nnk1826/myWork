@@ -1,0 +1,5 @@
+Test case:
+
+Maximum sum (possible) value: 50
+Minimum sum (possible) value: 5
+Average (approx.) value: 27.8

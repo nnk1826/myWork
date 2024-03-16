@@ -1,0 +1,57 @@
+Test case 1:
+
+Num1: 9
+Num2: -4
+Num3: -18
+Num4: 75
+Num5: 102
+
+Input:
+9
+-4
+-18
+75
+102
+
+Expected output: absSum: 208.0
+Actual output: absSum: 208.0
+
+Test case 2:
+
+Num1: 18
+Num2: -9
+Num3: -26
+Num4: 2
+Num5: 5
+
+Input:
+18
+-9
+-26
+2
+5
+
+Expected output: absSum: 60.0
+Actual output: absSum: 60.0
+
+Test case 3:
+
+Num1: 52
+Num2: -25
+Num3: -81
+Num4: 26
+Num5: 92
+
+Input:
+52
+-25
+-81
+26
+92
+
+Expected output: absSum: 276.0
+Actual output: absSum: 276.0
+
+
+
+

@@ -1,0 +1,83 @@
+Test case 1:
+
+Height no1: 165
+Height no2: 175
+Height no3: 185
+Height no4: 190
+Height no5: 200
+
+Input:
+165
+175
+185
+190
+200
+
+Expected output: 			Actual output: 
+165							165
+
+175							175
+
+185							185
+
+190							190
+
+200							200
+
+
+
+Test case 2:
+
+Height no1: 110
+Height no2: 120
+Height no3: 154
+Height no4: 189
+Height no5: 179
+
+Input:
+110
+120
+154
+189
+179
+
+Expected output: 			Actual output: 
+110							110
+
+120							120
+
+154							154
+
+189							189
+
+179							179
+
+
+
+Test case 3:
+
+Height no1: 199
+Height no2: 201
+Height no3: 188
+Height no4: 177
+Height no5: 166
+
+Input:
+199
+201
+188
+177
+166
+
+Expected output: 			Actual output: 
+199							199
+
+201							201
+
+188							188
+
+177							177
+
+166							166
+
+

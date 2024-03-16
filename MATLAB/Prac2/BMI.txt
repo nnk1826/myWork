@@ -1,0 +1,26 @@
+Test case 1:
+	weight: 85 kg; height: 1.85 m
+Input:
+85
+1.85
+
+Expected output: BMI: 24.84
+Actual output: BMI: 24.84
+
+Test case 2:
+	weight: 55 kg; height: 1.65 m
+Input:
+55
+1.65
+
+Expected output: BMI: 220.20
+Actual output: BMI: 20.20
+
+Test case 3:
+	weight: 105 kg; height: 2 m
+Input:
+105
+2
+
+Expected output: BMI: 26.25
+Actual output: BMI: 26.25
