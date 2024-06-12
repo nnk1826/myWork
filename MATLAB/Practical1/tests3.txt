@@ -1,0 +1,17 @@
+﻿Test case 1: 1 population
+Input: 1
+Expected output: 4411764.71%
+Actual output: 4411764.71%
+
+Test case 1: 50,000 population
+Input: 50000
+Expected output: 88.24%
+Actual output: 88.24%
+
+Test case 1: 2,000,000 population
+Input: 2000000
+Expected output: 2.21%
+Actual output: 2.21%
+
+
+
